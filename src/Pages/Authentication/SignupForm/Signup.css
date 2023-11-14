@@ -1,0 +1,21 @@
+.signupForm{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+}
+.signupForm-container{
+    min-width:300px;
+    max-width:400px;
+    padding: 1.2rem;
+    box-shadow:0 0 25px var(--grey);
+    border-radius: 10px;
+}
+.changeToLogin,.changeToLogin-container{
+    text-align: center;
+    color: var(--grey);
+    width: 100%;
+    text-align: center;
+}
