@@ -111,7 +111,7 @@ const Signup=()=>{
                         input={name} 
                         setInput={setName} 
                         type={'text'} 
-                        placeholder={"Subham Sahu"}
+                        placeholder={"Amarnath Devshatwar"}
                     />
 
                     <label htmlFor="email">Email</label>
