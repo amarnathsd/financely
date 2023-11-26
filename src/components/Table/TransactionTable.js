@@ -160,6 +160,7 @@ const TransactionTable=(props)=>{
                 </div>
                 <div className="Table">
                   <Table dataSource={sortedTransactions} columns={columns} />
+                  
                 </div>
             </div>
         </div>
